@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muthamil Selvan N
 - 👀 I’m interested in Embedded Systems, Linux, Robotics and AI
-- 🌱 I’m currently learning Sensor Fusion and Linux Driver Development
+- 🌱 I’m currently learning Sensor Fusion Techniques and Linux System Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? muthamizhselvan152@gmail.com
 
